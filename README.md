@@ -1,0 +1,7 @@
+- This is a react project.
+- In this project i have used react router, react pi chart.
+- For css i have used tailwind css library and for blogs page i have use daisyUI.
+- I have also used context api to show job and available job type in home page.
+- To do this project i have faced many problem like i have forgotten many things, but i have taken help from internet, chatgpt. I have use the suggestion after i understand it. May be its not copy coding.
+- Live Link of the Project:
+-

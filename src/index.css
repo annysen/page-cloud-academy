@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-primary {
+    @apply border bg-violet-500 text-white font-bold px-5 py-3 rounded-md hover:bg-violet-600
+}
